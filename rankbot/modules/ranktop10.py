@@ -10,8 +10,8 @@ from pyrogram.types import Message
 
 
 # --------------------------------------------------------------------------
-mongo_uri = "mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority"
-database_name = "MONGODB"
+mongo_uri = "mongodb+srv://skofficial11:skofficial11@skofficial.djaxq0k.mongodb.net/?retryWrites=true&w=majority"
+database_name = "skofficial11"
 # ------------------------------------------------------------------------------
 
 
